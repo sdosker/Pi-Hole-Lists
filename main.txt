@@ -105,6 +105,7 @@
 ||wpad.sp.senai.br^
 ||wpad.sesisp.org.br^
 ||wpad.sesisenaisp.org.br^
+||sccm-sspr-01.sp.local^
 
 # Unknow, but blocked just to be safer
 
