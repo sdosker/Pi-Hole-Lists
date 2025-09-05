@@ -97,3 +97,11 @@
 ||fkacazvha.com^
 ||awtfkaracoc.com^
 ||ozkpkocib.com^
+
+# Not ads, but network cleaning;
+
+||api-us1.xbc.trendmicro.com^
+||wpad.sp.local^
+||wpad.sp.senai.br^
+||wpad.sesisp.org.br^
+||wpad.sesisenaisp.org.br^
