@@ -73,7 +73,7 @@
 ||telemetry.deeparc.net^
 ||www.awjadlbwiawt.com^
 ||jriortnf.com^
-||abs.twimg.com^
+#||abs.twimg.com^
 ||xciozdacgos.com^
 ||gtubumgalb.com^
 ||dartpoxukpim.com^
