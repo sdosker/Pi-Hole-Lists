@@ -107,6 +107,8 @@
 ||wpad.sesisenaisp.org.br^
 ||sccm-sspr-01.sp.local^
 ||sccm-sspr-03.sp.local^
+||_ldap._tcp.47bfee4e-5c18-4fae-9518-e9e11f899f03.domains._msdcs.sp.local^
+||_ldap._tcp.dc._msdcs.sp.local^
 
 # Unknow, but blocked just to be safer
 
