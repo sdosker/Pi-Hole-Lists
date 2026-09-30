@@ -1,7 +1,7 @@
-facebook-hardware.com
-facebook.com
-fb.com
-fbcdn.com
-fbcdn.net
-oculus.com
-oculuscdn.com
+||facebook-hardware.com^
+||facebook.com^
+||fb.com^
+||fbcdn.com^
+||fbcdn.net^
+||oculus.com^
+||oculuscdn.com^
